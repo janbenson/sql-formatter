@@ -1,7 +1,7 @@
 {
-    "name": "jdorn/sql-formatter",
+    "name": "janbenson/sql-formatter",
     "description": "a PHP SQL highlighting library",
-    "homepage": "https://github.com/jdorn/sql-formatter/",
+    "homepage": "https://github.com/janbenson/sql-formatter/",
     "keywords": ["sql", "highlight"],
     "minimum-stability": "dev",
     "license": "LGPL",
